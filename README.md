@@ -1,6 +1,3 @@
-Here’s a professional **README.md** draft for your GitHub repository along with the **insights** from the analysis:
-
----
 
 # 📊 E-Commerce Sales Analysis
 
